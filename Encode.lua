@@ -1,1 +1,1 @@
-print("Encoded")
+return
